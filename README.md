@@ -1,4 +1,23 @@
-### Hi there 👋
+# Hi there! 👋
+
+## 👨‍💻 About Me
+
+- 💻 **Flutter/Android Developer**: I'm a passionate developer who loves building interactive and user-friendly mobile applications.
+- 🧩 **Problem Solver**: I enjoy solving complex problems and have a knack for finding efficient solutions.
+- 🏆 **Competitive Programmer**: I actively participate in coding competitions on platforms like LeetCode and codeForces.
+
+## 🔧 Technologies & Tools
+
+- **Mobile**: Flutter, Android
+- **Languages**: Dart, Java, Kotlin
+- **Tools**: Git, Android Studio, Visual Studio Code
+
+## 🌐 Social Links
+
+- [LeetCode](https://leetcode.com/vijaymehrotra/)
+- [CodeForces](https://codeforces.com/profile/vijaymehrotra99)
+
+
 
 <!--
 **vijaymehrotra/vijaymehrotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
