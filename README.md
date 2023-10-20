@@ -1,4 +1,8 @@
 # Hi there! 👋
+I am committed to continuous learning and growth, and I eagerly seek opportunities
+to apply my skills in innovative and impactful projects. With a combination of mobile
+development proficiency and a strong problem-solving mindset, I am well-equipped
+to contribute to and thrive in dynamic and forward-thinking tech environments.
 
 ## 👨‍💻 About Me
 
@@ -16,6 +20,7 @@
 
 - [LeetCode](https://leetcode.com/vijaymehrotra/)
 - [CodeForces](https://codeforces.com/profile/vijaymehrotra99)
+- [LinkedIn](https://www.linkedin.com/in/vijay-mehrotra-857b99250/)
 
 
 
