@@ -1,40 +1,39 @@
-# Hi there! 👋
-I am committed to continuous learning and growth, and I eagerly seek opportunities
-to apply my skills in innovative and impactful projects. With a combination of mobile
-development proficiency and a strong problem-solving mindset, I am well-equipped
-to contribute to and thrive in dynamic and forward-thinking tech environments.
+<h1 align="center">Hi 👋, I'm Vijay Mehrotra</h1>
+<h3 align="center">A Flutter Dev & Open-Source enthusiast.</h3>
 
-## 👨‍💻 About Me
+- 🔭 I’m currently working on **a Flutter App utilizing Gemini API.**
 
-- 💻 **Flutter/Android Developer**: I'm a passionate developer who loves building interactive and user-friendly mobile applications.
-- 🧩 **Problem Solver**: I enjoy solving complex problems and have a knack for finding efficient solutions.
-- 🏆 **Competitive Programmer**: I actively participate in coding competitions on platforms like LeetCode and codeForces.
+- 🌱 I’m currently learning **Android Development.**
 
-## 🔧 Technologies & Tools
+- 🤝 I’m looking for help with **Data Structures & Algorithms.**
 
-- **Mobile**: Flutter, Android
-- **Languages**: Dart, Java, Kotlin
-- **Tools**: Git, Android Studio, Visual Studio Code
+- ⚡ Fun fact **I love playing Chess!**
 
-## 🌐 Social Links
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/vijay-mehrotra-857b99250/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijaymehrotra" height="30" width="40" />
+  </a>
+  <a href="https://x.com/VijayMehrotra99" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijaymehrotra" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/vijaymehrotra" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vijaymehrotra" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/vijaymehrotra99" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vijaymehrotra" height="30" width="40" />
+  </a>
+</p>
 
-- [LeetCode](https://leetcode.com/vijaymehrotra/)
-- [CodeForces](https://codeforces.com/profile/vijaymehrotra99)
-- [LinkedIn](https://www.linkedin.com/in/vijay-mehrotra-857b99250/)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vijaymehrotra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vijaymehrotra&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaymehrotra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=vijaymehrotra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!--
-**vijaymehrotra/vijaymehrotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
