@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vijay Mehrotra</h1>
 <h3 align="center">A Flutter Dev & Open-Source enthusiast.</h3>
 
-- 🔭 I’m currently working on **a Flutter App utilizing Gemini API.**
-
-- 🌱 I’m currently learning **Android Development.**
+- 🌱 I’m currently learning **DevOps and Golang.**
 
 - 🤝 I’m looking for help with **Data Structures & Algorithms.**
 
