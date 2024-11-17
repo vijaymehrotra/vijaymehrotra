@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DevOps and Golang.**
 
-- 🤝 I’m looking for help with **Data Structures & Algorithms.**
+- 🤝 I do problem solving and **Data Structures & Algorithms.**
 
 - ⚡ Fun fact **I love playing Chess!**
 
